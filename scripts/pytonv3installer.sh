@@ -35,7 +35,7 @@ cd /usr/src/pytonv3
 python3 setup.py install
 
 # Скомпилировать недостающий бинарник
-cd /usr/bin/ton && make tonlibjson
+cd /usr/bin/ton && make /usr/src/pytonv3/pyTON/distlib/linux/libtonlibjson.so
 
 # Прописать автозагрузку
 echo -e "${COLOR}[3/4]${ENDC} Add to startup"
