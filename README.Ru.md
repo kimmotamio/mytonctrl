@@ -113,5 +113,5 @@ git: https://github.com/igroman787/mtc-jsonrpc
 git: https://github.com/igroman787/pytonv3
 
 ## Полезные ссылки
-1. https://github.com/ton-blockchain/mytonctrl/blob/master/docs/ru/manual-ubuntu.md
+1. https://github.com/kimmotamio/mytonctrl/blob/master/docs/ru/manual-ubuntu.md
 2. https://ton.org/docs/

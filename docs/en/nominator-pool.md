@@ -14,7 +14,7 @@
 
    > **Recommended providers:** [amazon](https://aws.amazon.com/), [digitalocean](https://www.digitalocean.com/), [linode](https://www.linode.com/), [alibaba cloud](https://alibabacloud.com/), [latitude](https://www.latitude.sh/).
 
-2. Install and sync **mytonctrl** as described in https://github.com/ton-blockchain/mytonctrl/blob/master/docs/en/manual-ubuntu.md **only** paragraph 1, 2 and 3.
+2. Install and sync **mytonctrl** as described in https://github.com/kimmotamio/mytonctrl/blob/master/docs/en/manual-ubuntu.md **only** paragraph 1, 2 and 3.
 
    [Video instruction](https://ton.org/docs/#/nodes/run-node).
 

@@ -1,4 +1,4 @@
-[Данный текст доступен на русском языке.](https://github.com/ton-blockchain/mytonctrl/blob/master/README.Ru.md)
+[Данный текст доступен на русском языке.](https://github.com/kimmotamio/mytonctrl/blob/master/README.Ru.md)
 
 ## What is it?
 This console is a wrapper over `fift`,`lite-client` and `validator-engine-console`. It was created to facilitate wallet, domain and validator management on Linux OS.
@@ -117,5 +117,5 @@ Ready. A local copy of toncenter is available at `http://<server-ip-address>:800
 git: https://github.com/igroman787/pytonv3
 
 ## Useful links
-1. https://github.com/ton-blockchain/mytonctrl/blob/master/docs/en/manual-ubuntu.md
+1. https://github.com/kimmotamio/mytonctrl/blob/master/docs/en/manual-ubuntu.md
 2. https://ton.org/docs/

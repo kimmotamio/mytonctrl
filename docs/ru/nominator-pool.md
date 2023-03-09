@@ -14,7 +14,7 @@
 
    > **Рекомендуемые провайдеры:** [amazon](https://aws.amazon.com/), [digitalocean](https://www.digitalocean.com/), [linode](https://www.linode.com/), [alibaba cloud](https://alibabacloud.com/), [latitude](https://www.latitude.sh/).
 
-2. Установите и синхронизируйте **mytonctrl**, как описано в https://github.com/ton-blockchain/mytonctrl/blob/master/docs/en/manual-ubuntu.md **только** пункты 1, 2 и 3.
+2. Установите и синхронизируйте **mytonctrl**, как описано в https://github.com/kimmotamio/mytonctrl/blob/master/docs/en/manual-ubuntu.md **только** пункты 1, 2 и 3.
 
    [Видеоинструкция](https://ton.org/docs/#/nodes/run-node).
 
